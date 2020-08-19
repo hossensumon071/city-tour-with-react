@@ -19,7 +19,7 @@ export default class Tour extends Component {
      <h5>
       info{""}
       <span>
-       <i className="fas fa-caret-square-down"/>
+       <i className=" far fa-caret-square-down "/>
       </span>
      </h5>
   <p>{info}</p>
